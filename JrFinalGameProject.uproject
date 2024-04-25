@@ -15,5 +15,10 @@
 			"Name": "MotionWarping",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"Windows",
+		"Mac"
 	]
 }
