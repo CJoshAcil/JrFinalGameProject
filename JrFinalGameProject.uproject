@@ -14,11 +14,14 @@
 		{
 			"Name": "MotionWarping",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"IOS",
 		"Windows",
-		"Mac"
+		"HoloLens"
 	]
 }
